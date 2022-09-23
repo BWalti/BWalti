@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Architect based in 🇨🇭, love working on dotnet, cloud and DevOps.
+I'm a Software Architect based in 🇨🇭, love working on .NET, cloud and DevOps.
 I am interested in a lot of different things from frontend (vue.js) to backend (dotnet) using funny things like Microsoft Orleans running them on my own Rancher k3s cluster, playing with Raspbery Pis, ESP32, ... and I also like to mountainbike from time to time :)
 
 <!--
